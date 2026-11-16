@@ -1,6 +1,6 @@
-# Hey, I’m Vedant 👋
-
+# Hellooo, I’m Vedant 👋
 I’m a builder who likes turning messy, everyday problems into tools that feel simple to use. Lately, I’ve been exploring how AI can help people get from an idea to finished work—with less busywork in between.
+I've been  obsessed with augmenting workflows in novel ways.
 
 I’m studying computer science at UMass Amherst, where I work on projects across AI, product design, and software engineering.
 
