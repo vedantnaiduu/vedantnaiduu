@@ -17,4 +17,4 @@ AI that works with your context. Interfaces that stay out of the way. Small idea
 
 ## Find me
 
-[Portfolio](https://vedantnaidu.com) · [GitHub](https://github.com/vedantnaiduu)
+[Portfolio](https://vedantnaiduu.github.io/personalwebsite/) · [GitHub](https://github.com/vedantnaiduu)
